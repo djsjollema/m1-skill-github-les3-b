@@ -2,3 +2,5 @@
 Dit is een opdracht bij les 3 van Software Develeopment versioncontrole 
 
 ## toegevoegd in les
+
+## html index toegevoegd
